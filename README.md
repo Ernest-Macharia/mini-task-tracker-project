@@ -40,10 +40,17 @@ npm run dev
 docker compose up --build
 
 Usage Guide
+
 Add tasks with title, start date, end date, assignee, and status.
+
 View the Gantt Chart to visualize all tasks.
+
 Filter or search by status or assignee.
+
 Use keyboard controls:
+
 Arrow Keys/Tab → Navigate between tasks
+
 Enter → Open task details
+
 Update task progress or mark as completed.
