@@ -27,7 +27,7 @@ Deployment	- Docker + Docker Compose
 
 Installation
 1. Clone the repository
-git clone https://github.com/your-username/mini-task-tracker-project.git
+git clone https://github.com/Ernest-Macharia/mini-task-tracker-project.git
 cd mini-task-tracker-project
 
 2. Install dependencies
